@@ -14,9 +14,9 @@ Key Goals and Findings:
 
      Key Findings:
 
-The analysis revealed that males experienced higher attrition rates compared to females, with 150 cases for males and 87 for females, representing 30.80% of the total count for single males.
-Among different work-life balance groups, "Good" had the highest attrition count at 893, comprising 60.75% of the total, while "Bad" had the lowest count at 80 cases.
-In terms of education fields, "Life Sciences" recorded the highest attrition count at 89, accounting for 37.55% of the total, while "Human Resources" had the lowest count at 7 cases, indicating a wide disparity.
+* The analysis revealed that males experienced higher attrition rates compared to females, with 150 cases for males and 87 for females, representing 30.80% of the total count for single males.
+* Among different work-life balance groups, "Good" had the highest attrition count at 893, comprising 60.75% of the total, while "Bad" had the lowest count at 80 cases.
+* In terms of education fields, "Life Sciences" recorded the highest attrition count at 89, accounting for 37.55% of the total, while "Human Resources" had the lowest count at 7 cases, indicating a wide disparity.
 
 
 
