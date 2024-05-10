@@ -20,10 +20,12 @@ In terms of education fields, "Life Sciences" recorded the highest attrition cou
 
 
 
+
 Tools Used:
 
 * Excel - Data cleaning and data preparation
 * Power BI - Dashboard creation and data analysis   
+
 
 
 
@@ -32,6 +34,7 @@ Recommendations:
 * Enhance work-life balance initiatives by investing in programs to improve work-life balance, especially for employees classified under the 'Good' work-life balance category.
 * Conduct further investigation to explore underlying reasons behind high attrition rates in specific categories, such as demographic or job-related factors.
 * Continuously monitor and adjust strategies by regularly assessing the effectiveness of retention efforts and adapt strategies based on evolving trends and organizational needs.
+
 
 
 
